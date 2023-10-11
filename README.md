@@ -1,5 +1,7 @@
 ### + 1 FanBoy da Microsoft 👨🏻‍💻
 
+### [LinkedIn](www.linkedin.com/in/Micael-dos-Santos).
+
 <!--
 **MicaelDosSantos/MicaelDosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
